@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Designer and Developer
 ------------------------------------------
 
-Hey, I'm Sravani. I am currently pursuing a master's degree in Engineering Management and Leadership at Santa Clara University and I majored in Web Design and Engineering for my undergraduate degree. In addition to my academic pursuits, I have also worked as an intern at BriefingIQ and as a teacher’s assistant at Santa Clara University’s Frugal Innovation Hub. 
+Hey, I'm Sravani. I am currently pursuing a master's degree in Engineering Management and Leadership at Santa Clara University and I majored in Web Design and Engineering for my undergraduate degree. In addition to my academic pursuits, I have also worked as an intern at BriefingIQ and as a teacher’s assistant at Santa Clara University’s Frugal Innovation Hub.<br> 
 
-Some development experience I have was during my senior capstone project where my partner and I developed three applications using Flutter, for a client. I've developed a keen interest in full-stack development. Mastering both the front-end and back-end aspects of web applications allows me to offer comprehensive solutions and create seamless, user-centric experiences. 
+Some development experience I have was during my senior capstone project where my partner and I developed three applications using Flutter, for a client. I've developed a keen interest in full-stack development. Mastering both the front-end and back-end aspects of web applications allows me to offer comprehensive solutions and create seamless, user-centric experiences.<br> 
 
-I am enthusiastic about continuing to refine my skills and contribute to cutting-edge projects in this dynamic field. As a designer and developer, I approach my work with dedication and a commitment to excellence, always striving to bring smiles to the faces of my partners, coworkers, and clients. My ultimate aspiration is to make a positive impact on the world, infusing it with joy through my creative and technical efforts.
+I am enthusiastic about continuing to refine my skills and contribute to cutting-edge projects in this dynamic field. As a designer and developer, I approach my work with dedication and a commitment to excellence, always striving to bring smiles to the faces of my partners, coworkers, and clients. My ultimate aspiration is to make a positive impact on the world, infusing it with joy through my creative and technical efforts.<br> 
 
 * 🌍  I'm based in Bay Area, CA
 * ✉️  You can contact me at [srav.rao0411@gmail.com](mailto:srav.rao0411@gmail.com)
